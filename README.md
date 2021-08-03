@@ -12,10 +12,15 @@ Here are some notes and comments about this datasets : This data set contains in
   
 ### The Question are ?
   1.Does higher budget mean higher popularity ? 
+  
   2.Is there a co-efficient relationship ?
+  
   3.Will the runtime affect the vote count and popularity?
+  
   4.Higher popularity means higher profits ?
+  
   5.What Features are Associate with Top 10 Revenue Movies ?
+  
   6.Which genres are most popular from year to year?
   
   
