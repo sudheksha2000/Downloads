@@ -5,8 +5,11 @@
 Here are some notes and comments about this datasets : This data set contains information about 10,000 movies collected from The Movie Database (TMDb), including user ratings and revenue. Certain columns, like ‘cast’ and ‘genres’, contain multiple values separated by pipe (|) characters.
 ### What are the libraries used ?
   1.Pandas
+  
   2.Numpy
-  3.Matplotlib 
+  
+  3.Matplotlib
+  
 ### The Question are ?
   1.Does higher budget mean higher popularity ? 
   2.Is there a co-efficient relationship ?
